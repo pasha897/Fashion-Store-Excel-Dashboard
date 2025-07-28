@@ -1,4 +1,4 @@
-# Vrinda-Store-Dashboard
+# Fashion-Store-Dashboard
 
   Sample Questions
 
