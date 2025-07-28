@@ -2,13 +2,13 @@
 
   Sample Questions
 
-Compare the sales and orders using single chart
-Who purchased more- men or women in 2022?
-What are different order status in 2022?
-List top 10 states contributing to the sales?
-Relation between age and gender based on number
-Which channel is contributing to maximum sales?
-Highest selling category?
+1) Compare the sales and orders using single chart
+2) Who purchased more- men or women in 2022?
+3) What are different order status in 2022?
+4) List top 10 states contributing to the sales?
+5) Relation between age and gender based on number
+6) Which channel is contributing to maximum sales?
+7) Highest selling category?
 
    Insights:
    
